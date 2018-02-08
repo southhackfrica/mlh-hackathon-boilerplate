@@ -24,21 +24,21 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "SouthHackFrica | 5/6 October 2018"
+  description: "Join us for amazing Hacks this October"
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "SouthHackFrica"
+  description: "Join us for amazing Hacks this October"
+  date:        "5 & 6 October 2018"
+  location:    "Tshimolong Precinct,Jogannesburg, South Africa"
 
   trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    year:   "2019"  # season year
+    region: "za"    # "na" or "eu"
+    color:  "black" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
